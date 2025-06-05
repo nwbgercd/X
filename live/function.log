@@ -1,0 +1,4 @@
+2025-06-05 10:29:07,256 - ERROR - url: https://web.banye.tech:7777/tvbus/yogurtTv.txt 失败❌, Error: Cannot connect to host web.banye.tech:7777 ssl:default [None]
+2025-06-05 10:29:07,257 - ERROR - url: https://web.banye.tech:7777/tv/hlj.txt 失败❌, Error: Cannot connect to host web.banye.tech:7777 ssl:default [None]
+2025-06-05 10:29:32,874 - ERROR - url: http://rihou.cc:555/gggg.nzk 失败❌, Error: Connection timeout to host http://rihou.cc:555/gggg.nzk
+2025-06-05 10:29:32,874 - ERROR - url: http://rihou.cc:555/gggg.nzk 失败❌, Error: Connection timeout to host http://rihou.cc:555/gggg.nzk
